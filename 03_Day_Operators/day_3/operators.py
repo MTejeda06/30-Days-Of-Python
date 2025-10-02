@@ -1,4 +1,4 @@
-# Day 2: 30 days of python programming
+# Day 3: 30 days of python programming
 
 import math
 
